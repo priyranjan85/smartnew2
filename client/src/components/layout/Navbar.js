@@ -253,7 +253,6 @@ const Navbar = ({ auth: { isAuthenticated }, login, logout }) => {
 
 
 
-
 }
 
 Navbar.propTypes = {
