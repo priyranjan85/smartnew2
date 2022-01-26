@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "BRLNSR";
+  font-weight: 700;
+  font-style: normal;
+  src: url("BRLNSR.TTF");
+}
+
+@font-face {
+  font-family: "Helvetica";
+  /* font-weight: 700; */
+  font-style: normal;
+  src: url("Helvetica.ttf");
+}
